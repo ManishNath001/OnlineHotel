@@ -256,3 +256,5 @@ C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotelWeb\bin\D
 C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotelWeb\bin\Debug\net6.0\OnlineHotel.Models.pdb
 C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotelWeb\bin\Debug\net6.0\OnlineHotel.Utility.dll
 C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotelWeb\bin\Debug\net6.0\OnlineHotel.Utility.pdb
+C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotelWeb\bin\Debug\net6.0\OnlineHotel.ViewModels.dll
+C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotelWeb\bin\Debug\net6.0\OnlineHotel.ViewModels.pdb

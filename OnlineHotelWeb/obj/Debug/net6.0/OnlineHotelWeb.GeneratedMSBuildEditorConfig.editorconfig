@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotelWeb
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Manish Nath/Documents/Asp.net Projects/OnlineHotel/OnlineHotelWeb/Areas/Admin/Views/RoomType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9vbVR5cGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Manish Nath/Documents/Asp.net Projects/OnlineHotel/OnlineHotelWeb/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

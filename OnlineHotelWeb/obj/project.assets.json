@@ -3922,6 +3922,16 @@
         "runtime": {
           "bin/placeholder/OnlineHotel.Utility.dll": {}
         }
+      },
+      "OnlineHotel.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/OnlineHotel.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OnlineHotel.ViewModels.dll": {}
+        }
       }
     }
   },
@@ -11140,6 +11150,11 @@
       "type": "project",
       "path": "../OnlineHotel.Utility/OnlineHotel.Utility.csproj",
       "msbuildProject": "../OnlineHotel.Utility/OnlineHotel.Utility.csproj"
+    },
+    "OnlineHotel.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../OnlineHotel.ViewModels/OnlineHotel.ViewModels.csproj",
+      "msbuildProject": "../OnlineHotel.ViewModels/OnlineHotel.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -11151,7 +11166,8 @@
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.16",
       "OnlineHotel.BLL >= 1.0.0",
       "OnlineHotel.Models >= 1.0.0",
-      "OnlineHotel.Utility >= 1.0.0"
+      "OnlineHotel.Utility >= 1.0.0",
+      "OnlineHotel.ViewModels >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -11194,6 +11210,9 @@
             },
             "C:\\Users\\Manish Nath\\Documents\\Asp.net Projects\\OnlineHotel\\OnlineHotel.Utility\\OnlineHotel.Utility.csproj": {
               "projectPath": "C:\\Users\\Manish Nath\\Documents\\Asp.net Projects\\OnlineHotel\\OnlineHotel.Utility\\OnlineHotel.Utility.csproj"
+            },
+            "C:\\Users\\Manish Nath\\Documents\\Asp.net Projects\\OnlineHotel\\OnlineHotel.ViewModels\\OnlineHotel.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\Manish Nath\\Documents\\Asp.net Projects\\OnlineHotel\\OnlineHotel.ViewModels\\OnlineHotel.ViewModels.csproj"
             }
           }
         }

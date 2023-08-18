@@ -15,7 +15,8 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16",
           "OnlineHotel.BLL": "1.0.0",
           "OnlineHotel.Models": "1.0.0",
-          "OnlineHotel.Utility": "1.0.0"
+          "OnlineHotel.Utility": "1.0.0",
+          "OnlineHotel.ViewModels": "1.0.0"
         },
         "runtime": {
           "OnlineHotelWeb.dll": {}
@@ -2588,6 +2589,11 @@
         "runtime": {
           "OnlineHotel.Utility.dll": {}
         }
+      },
+      "OnlineHotel.ViewModels/1.0.0": {
+        "runtime": {
+          "OnlineHotel.ViewModels.dll": {}
+        }
       }
     }
   },
@@ -4169,6 +4175,11 @@
       "sha512": ""
     },
     "OnlineHotel.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnlineHotel.ViewModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

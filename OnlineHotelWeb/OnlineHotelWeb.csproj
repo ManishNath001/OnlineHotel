@@ -21,6 +21,7 @@
     <ProjectReference Include="..\OnlineHotel.BLL\OnlineHotel.BLL.csproj" />
     <ProjectReference Include="..\OnlineHotel.Models\OnlineHotel.Models.csproj" />
     <ProjectReference Include="..\OnlineHotel.Utility\OnlineHotel.Utility.csproj" />
+    <ProjectReference Include="..\OnlineHotel.ViewModels\OnlineHotel.ViewModels.csproj" />
   </ItemGroup>
 
 </Project>

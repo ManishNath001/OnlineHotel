@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineHotel.Models", "Onlin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineHotel.BLL", "OnlineHotel.BLL\OnlineHotel.BLL.csproj", "{CE50A231-B28B-447D-A12B-78BCAC389D2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineHotel.Utility", "OnlineHotel.Utility\OnlineHotel.Utility.csproj", "{52E2CBC5-F8BE-460E-9C3C-6F18DBDB949B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineHotel.Utility", "OnlineHotel.Utility\OnlineHotel.Utility.csproj", "{52E2CBC5-F8BE-460E-9C3C-6F18DBDB949B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineHotel.ViewModels", "OnlineHotel.ViewModels\OnlineHotel.ViewModels.csproj", "{B9016536-8E7B-4DF8-B8D7-AB2DBA80680D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{52E2CBC5-F8BE-460E-9C3C-6F18DBDB949B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52E2CBC5-F8BE-460E-9C3C-6F18DBDB949B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52E2CBC5-F8BE-460E-9C3C-6F18DBDB949B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9016536-8E7B-4DF8-B8D7-AB2DBA80680D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9016536-8E7B-4DF8-B8D7-AB2DBA80680D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9016536-8E7B-4DF8-B8D7-AB2DBA80680D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9016536-8E7B-4DF8-B8D7-AB2DBA80680D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

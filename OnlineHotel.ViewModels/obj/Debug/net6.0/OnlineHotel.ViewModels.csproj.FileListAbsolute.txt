@@ -1,0 +1,12 @@
+C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotel.ViewModels\bin\Debug\net6.0\OnlineHotel.ViewModels.deps.json
+C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotel.ViewModels\bin\Debug\net6.0\OnlineHotel.ViewModels.dll
+C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotel.ViewModels\bin\Debug\net6.0\OnlineHotel.ViewModels.pdb
+C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotel.ViewModels\obj\Debug\net6.0\OnlineHotel.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotel.ViewModels\obj\Debug\net6.0\OnlineHotel.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotel.ViewModels\obj\Debug\net6.0\OnlineHotel.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotel.ViewModels\obj\Debug\net6.0\OnlineHotel.ViewModels.AssemblyInfo.cs
+C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotel.ViewModels\obj\Debug\net6.0\OnlineHotel.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotel.ViewModels\obj\Debug\net6.0\OnlineHotel.ViewModels.dll
+C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotel.ViewModels\obj\Debug\net6.0\refint\OnlineHotel.ViewModels.dll
+C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotel.ViewModels\obj\Debug\net6.0\OnlineHotel.ViewModels.pdb
+C:\Users\Manish Nath\Documents\Asp.net Projects\OnlineHotel\OnlineHotel.ViewModels\obj\Debug\net6.0\ref\OnlineHotel.ViewModels.dll

@@ -12,11 +12,11 @@ namespace OnlineHotel.Utility
 {
     public class DbInitializer : IDbInitializer
     {
-        private UserManager<ApplicationUser> _userManager;
+        private UserManager<IdentityUser> _userManager;
         private RoleManager<IdentityRole> _roleManager;
         private ApplicationDbContext _context;
 
-        public DbInitializer(UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager, ApplicationDbContext context)
+        public DbInitializer(UserManager<IdentityUser> userManager, RoleManager<IdentityRole> roleManager, ApplicationDbContext context)
         {
             _userManager = userManager;
             _roleManager = roleManager;
@@ -45,9 +45,12 @@ namespace OnlineHotel.Utility
                     UserName = "admin@gmail.com",
                     Email = "admin@gmail.com",
                     Name = "Admin",
-                }, "Admin@123");
-                ApplicationUser user = _context.ApplicationUsers.FirstOrDefault(x => x.Email == "admin@gmail.com");
-                _userManager.AddToRoleAsync(user, WebsiteRoles.Hotel_Admin);
+                }, "Admin@123").GetAwaiter().GetResult();
+                var user = _context.ApplicationUsers.FirstOrDefault(x => x.Email == "admin@gmail.com");
+                if(user != null)
+                {
+                    _userManager.AddToRoleAsync(user, WebsiteRoles.Hotel_Admin).GetAwaiter().GetResult();
+                }
             }
         }
     }
